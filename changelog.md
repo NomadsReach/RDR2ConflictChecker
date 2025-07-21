@@ -1,3 +1,33 @@
+**Changelog – RDR2 LML Conflict Checker**
+
+**Version 3.0**
+
+**New Features**
+
+* Added a built-in Help system to guide users through all tool features
+
+  * Accessible via a Help tab or tooltip popup
+  * Explains scanning, conflict levels, exclusions, backups, and more
+
+* Implemented a version checker
+
+  * On startup, the tool checks for updates from NexusMods or RDR2Mods
+  * Notifies the user if a newer version is available and provides a download link
+
+**Improvements**
+
+* Updated the interface with a modern dark theme inspired by Windows 11 design
+* Refactored the entire application into modular, class-based architecture using PyQt5
+* Improved performance and memory efficiency during mod conflict scans
+
+**Fixes**
+
+* Resolved UI freezing during large scans by offloading work to background threads
+* Improved handling of large or binary files in the comparison window
+
+---
+
+Let me know the version/date if you’d like this finalized.
 
 
 # RDR2 Mod Conflict Checker — Changelog (July 21, 2025)
