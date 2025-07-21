@@ -1,4 +1,4 @@
-**Changelog – RDR2 LML Conflict Checker**
+# RDR2 Mod Conflict Checker — Changelog (July 22, 2025)
 
 **Version 3.0**
 
