@@ -27,8 +27,6 @@
 
 ---
 
-Let me know the version/date if you’d like this finalized.
-
 
 # RDR2 Mod Conflict Checker — Changelog (July 21, 2025)
 
